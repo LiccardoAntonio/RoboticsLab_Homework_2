@@ -1,9 +1,7 @@
-# RoboticsLab_Homework_2
-Robotics Lab 2025/2026 - Homework n#2 - Control your robot
-
-* * *
-
-## Overview
+# RoboticsLab 2025/2026
+## Homework 2: Control your robot
+-------------
+# Overview
 
 This repository contains the solution for Homework 2 of the Robotics Lab course.
 
